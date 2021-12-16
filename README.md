@@ -1,7 +1,10 @@
 # about-me
 # Name: Yousif Hawash 
 ## Eamil: Yousifh3067@hstat.org
-## School: Tellecommunications High School
+
+---
+
+### School: Tellecommunications High School
 ### Bio: Chipotle is bussin.
 ## Schedule: 
 #### Pd.1: Gym
